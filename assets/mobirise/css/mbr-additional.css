@@ -1345,7 +1345,7 @@ a {
 }
 .cid-uLEkPlTMGb {
   display: flex;
-  background-image: url("../../../assets/images/rodos-500x500.png");
+  background-image: url("../../../assets/images/rodos-upscaled-2000x2000.png");
 }
 .cid-uLEkPlTMGb .mbr-overlay {
   background-color: #000000;
@@ -1422,6 +1422,9 @@ a {
 }
 .cid-uLEmBRhAxU .row {
   justify-content: space-between;
+}
+.cid-uLEmBRhAxU P {
+  text-align: center;
 }
 .cid-uLEu8Zr6Pv {
   padding-top: 6rem;
